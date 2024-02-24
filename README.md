@@ -1,0 +1,2 @@
+# School-Website
+Nuxt Project
