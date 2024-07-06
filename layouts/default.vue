@@ -4,7 +4,7 @@ import Footer from "../components/Footer";
 </script>
 <template>
   <div>
-    <NavBar />
+    <Navbar />
     <slot />
     <Footer />
   </div>
