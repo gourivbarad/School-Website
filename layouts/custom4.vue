@@ -1,5 +1,5 @@
 <script setup>
-import NavBar from "../components/Navbar";
+import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 </script>
 <template>
